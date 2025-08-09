@@ -18,9 +18,10 @@ function App() {
         <Features />
         <Juices />
         <Promo />
-        <Contact />
+        {/* <Contact /> */}
+        <Footer />
       </main>
-      <Footer />
+      
     </div>
   );
 }
